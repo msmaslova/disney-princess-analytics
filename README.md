@@ -46,7 +46,7 @@ disney-princess-analytics/
   Ariel and Cinderella dominate TikTok hashtag views by millions.
 
 - **Hair Color Influence:**  
-  Surprisingly, red-haired princesses have the highest average popularity scores.
+  White-hairs princesses have the highest average popularity scores.
 
 - **Impact of Solo Songs:**  
   Princesses with solo songs tend to score higher in popularity and media attention.
@@ -81,6 +81,12 @@ disney-princess-analytics/
   <img src="images/Top10 TikTok.png" width="70%">
 </p>
 
+### 🎤 Impact of Solo Songs on Popularity
+
+<p align="center">
+  <img src="images/SongImpact.png" width="75%">
+</p>
+
 ### 💫 3 clusters for princesses (K-meaning clustering):
 
 ✅ Cluster 0 → Classic Legends
@@ -113,18 +119,6 @@ Position: Viral, short-form queens
 </p>
 
 This radar chart highlights how each princess cluster scores across key metrics like TikTok views, screen time, merchandising, and overall popularity.
-
-
----
-
-## 📊 Explore the Interactive Tableau Dashboard
-
-[Disney Analytics: Disney Princess Dashboard on Tableau Public](https://ТВОЯ_ССЫЛКА_НА_ТАБЛО)
-
-This dashboard includes:
-- Dynamic filtering by Hair Color, Release Year, and Princess Name
-- Key metrics and detailed breakdowns
-- Timeline of Iconic Moments
 
 ---
 
