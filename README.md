@@ -87,7 +87,7 @@ disney-princess-analytics/
 
 ## 📊 Explore the Interactive Tableau Dashboard
 
-[PokeInsight: Disney Princess Dashboard on Tableau Public](https://ТВОЯ_ССЫЛКА_НА_ТАБЛО)
+[Disney Analytics: Disney Princess Dashboard on Tableau Public](https://ТВОЯ_ССЫЛКА_НА_ТАБЛО)
 
 This dashboard includes:
 - Dynamic filtering by Hair Color, Release Year, and Princess Name
