@@ -19,21 +19,22 @@ From Kaggle([https://www.kaggle.com/datasets/hamnakaleemds/disney-princess-popul
 ---
 
 ## 🗂️ Folder Structure
-
+```bash
 disney-princess-analytics/
 ├── data/
 │   └── disney_princess_popularity_dataset_300_rows.csv
 ├── notebooks/
-│   └── 01_data_cleaning_and_eda.ipynb
+│   └── princess-analytics.ipynb
 ├── images/
 │   ├── popularity_distribution.png
 │   ├── top5_princesses_evolution.png
 │   ├── haircolor_vs_popularity.png
-│   └── top5_tiktok_princesses.png
+│   ├──  top5_tiktok_princesses.png
+│   └──  cluster_radar.png
 ├── tableau/
 │   └── disney_princess_dashboard.twbx
 └── README.md
-
+```
 ---
 
 ## 🔍 Key Insights
@@ -80,6 +81,21 @@ disney-princess-analytics/
   <img src="images/top5_tiktok_princesses.png" width="70%">
 </p>
 
+### 💫 3 clusters for princesses:
+
+  0: 👑 Classic Legends
+  1: 💡 Modern All-Stars
+  2: 📱 Social Media Powerhouses
+
+### 🌟 Radar Chart: Cluster Comparison
+
+<p align="center">
+  <img src="вставим сюда картинку" width="75%">
+</p>
+
+This radar chart highlights how each princess cluster scores across key metrics like TikTok views, screen time, merchandising, and overall popularity.
+
+
 ---
 
 ## 📊 Explore the Interactive Tableau Dashboard
@@ -95,9 +111,29 @@ This dashboard includes:
 
 ## 🚀 How to Run Locally
 
-1. Install required packages:
+1. **Install required packages:**
+
+Make sure you have Python 3.8+ installed. Then, install the required Python libraries using pip:
 
 ```bash
-pip install pandas matplotlib seaborn
+pip install pandas matplotlib seaborn scikit-learn
+```
+2. **Download the project files:**
+Clone the repository or download it as a ZIP:
+```bash
+git clone https://github.com/msmaslova/disney-princess-analytics.git
+cd disney-princess-analytics
+```
+3. Open and run the Jupyter Notebook:
+Launch Jupyter Notebook and open the main analysis notebook:
+
+princess-analytics.ipynb
+
+4. Run the notebook cell by cell to explore the data, run the cluster analysis, and generate visualizations.
+Explore the generated visuals:
+You can also view the cleaned dataset with cluster labels in:
+disney_princess_clustered.csv
+
+
 
 
