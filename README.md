@@ -57,14 +57,14 @@ disney-princess-analytics/
 
 ### 🎀 Popularity Distribution
 <p align="center">
-  <img src="images/popularity_distribution.png" width="70%">
+  <img src="images/DistPopularity.png" width="70%">
 </p>
 
 ---
 
 ### 🌟 Top 5 Princesses Popularity Evolution
 <p align="center">
-  <img src="images/top5_princesses_evolution.png" width="70%">
+  <img src="images/GrowingPopularity.png" width="70%">
 </p>
 
 ---
@@ -78,19 +78,33 @@ disney-princess-analytics/
 
 ### 🎶 TikTok Stars
 <p align="center">
-  <img src="images/top5_tiktok_princesses.png" width="70%">
+  <img src="images/Top10 TikTok.png" width="70%">
 </p>
 
 ### 💫 3 clusters for princesses (K-meaning clustering):
 
-  0: 👑 Classic Legends
-  1: 💡 Modern All-Stars
-  2: 📱 Social Media Powerhouses
+✅ Cluster 0 → Classic Legends
+
+💫 High box office, high Instagram presence, top search scores — this is the iconic royalty cluster. Think Elsa, Belle, Ariel.
+Position: Timeless, highly merchandised, nostalgic.
+
+
+✅ Cluster 1 → Modern All-Stars
+
+📱 Highest screen time and overall popularity score, solid TikTok & merch stats — this group owns both screen and social attention.
+
+Position: Story-driven, well-balanced appeal, popular across platforms.
+
+
+✅ Cluster 2 → Media Powerhouses
+
+🎥 Lower screen time but massive TikTok virality & merch sales — true Gen Z fan-magnets.
+Position: Viral, short-form queens (likely Moana, Rapunzel, etc.)
 
 ### 🌟 Radar Chart: Cluster Comparison
 
 <p align="center">
-  <img src="вставим сюда картинку" width="75%">
+  <img src="images/Cluster Radar.png" width="75%">
 </p>
 
 This radar chart highlights how each princess cluster scores across key metrics like TikTok views, screen time, merchandising, and overall popularity.
