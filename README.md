@@ -71,7 +71,7 @@ disney-princess-analytics/
 
 ### 👸 Hair Color vs Popularity
 <p align="center">
-  <img src="images/haircolor_vs_popularity.png" width="70%">
+  <img src="images/HairColorPop.png" width="70%">
 </p>
 
 ---
@@ -99,7 +99,12 @@ Position: Story-driven, well-balanced appeal, popular across platforms.
 ✅ Cluster 2 → Media Powerhouses
 
 🎥 Lower screen time but massive TikTok virality & merch sales — true Gen Z fan-magnets.
-Position: Viral, short-form queens (likely Moana, Rapunzel, etc.)
+Position: Viral, short-form queens 
+
+<p align="center">
+  <img src="images/Cluster Visual.png" width="70%">
+</p>
+
 
 ### 🌟 Radar Chart: Cluster Comparison
 
