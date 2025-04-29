@@ -22,20 +22,17 @@ From Kaggle([https://www.kaggle.com/datasets/hamnakaleemds/disney-princess-popul
 
 disney-princess-analytics/
 ├── data/
-│   └── disney_princess_popularity_dataset_300_rows.csv   
+│   └── disney_princess_popularity_dataset_300_rows.csv
 ├── notebooks/
-│   └── 01_data_cleaning_and_eda.ipynb                
+│   └── 01_data_cleaning_and_eda.ipynb
 ├── images/
-│   ├── popularity_distribution.png                      
-│   ├── top5_princesses_evolution.png                     
-│   ├── haircolor_vs_popularity.png                       
-│   ├── top5_tiktok_princesses.png                       
+│   ├── popularity_distribution.png
+│   ├── top5_princesses_evolution.png
+│   ├── haircolor_vs_popularity.png
+│   └── top5_tiktok_princesses.png
 ├── tableau/
-│   └── disney_princess_dashboard.twbx                    
-├── README.md                                              
-├── requirements.txt                                       
-
-
+│   └── disney_princess_dashboard.twbx
+└── README.md
 
 ---
 
@@ -45,7 +42,7 @@ disney-princess-analytics/
   Ariel and Elsa consistently lead in popularity across decades.
 
 - **TikTok Queens:**  
-  Elsa and Moana dominate TikTok hashtag views by millions.
+  Ariel and Cinderella dominate TikTok hashtag views by millions.
 
 - **Hair Color Influence:**  
   Surprisingly, red-haired princesses have the highest average popularity scores.
@@ -102,4 +99,5 @@ This dashboard includes:
 
 ```bash
 pip install pandas matplotlib seaborn
+
 
