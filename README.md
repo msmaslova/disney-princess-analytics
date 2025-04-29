@@ -81,7 +81,7 @@ disney-princess-analytics/
   <img src="images/top5_tiktok_princesses.png" width="70%">
 </p>
 
-### 💫 3 clusters for princesses:
+### 💫 3 clusters for princesses (K-meaning clustering):
 
   0: 👑 Classic Legends
   1: 💡 Modern All-Stars
