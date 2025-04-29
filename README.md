@@ -26,13 +26,11 @@ disney-princess-analytics/
 ├── notebooks/
 │   └── princess-analytics.ipynb
 ├── images/
-│   ├── popularity_distribution.png
-│   ├── top5_princesses_evolution.png
-│   ├── haircolor_vs_popularity.png
-│   ├──  top5_tiktok_princesses.png
-│   └──  cluster_radar.png
-├── tableau/
-│   └── disney_princess_dashboard.twbx
+│   ├── PopDistribution.png
+│   ├── Growing Popularity.png
+│   ├── HairColorPop.png
+│   ├── Top10 TikTok.png
+│   └── Cluster Radar.png
 └── README.md
 ```
 ---
